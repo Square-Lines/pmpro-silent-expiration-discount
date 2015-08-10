@@ -14,6 +14,8 @@ It requires PaidMemberships Pro to already be installed in your WordPress instal
 
 ## Contributors
 
+Written by Square Lines LLC - http://www.square-lines.com.
+
 Our thanks to Jason Coleman and the PMPro team for creating and maintaining an efficient, well-written, and extensible codebase as a part of their great tool.
 
 ## License
